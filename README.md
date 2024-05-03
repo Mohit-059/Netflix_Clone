@@ -1,1 +1,1 @@
-# Netflix_Clone
+Just a structure clone, currently working only on desktops/ non responsive.
